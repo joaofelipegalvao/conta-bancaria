@@ -4,6 +4,8 @@ out/
 !**/src/test/**/out/
 .idea/
 conta-bancaria.iml
+ContaBancaria.class
+Main.java
 
 ### Eclipse ###
 .apt_generated
